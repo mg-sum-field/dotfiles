@@ -1,0 +1,17 @@
+{
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.lineHeight": 1.3,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Solarized Dark",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": true,
+    "files.associations": {
+        "*.py": "python",
+        "*.md": "markdown"
+    },
+    "files.eol": "\n",
+    "files.encoding": "utf8"
+}
